@@ -1,11 +1,9 @@
 use mavenmovies;
 
 
-
-
 1)-- Identify the primary keys and foreign keys in maven movies db. Discuss the differences 
-ans-- 
-
+ans-- A primary key generally focuses on the uniqueness of the table.It assures the value in the specific column is unique. 
+      A foreign key is generally used to build a relationship between the two tables.The table allows only one primary key.
 
 2)-- List all details of actors.
 ans-- select * from actor;
